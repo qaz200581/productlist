@@ -1,0 +1,1116 @@
+{
+    "products": [
+        {
+            "name": "藍寶石鏡頭玻璃貼",
+            "nameShort": "IMOSLEN"
+        },
+        {
+            "name": "藍寶石玻璃金屬鏡頭框",
+            "nameShort": "IMOSMTLEN"
+        },
+        {
+            "name": "M系列 軍規防摔殼",
+            "nameShort": "IMOSCASE"
+        },
+        {
+            "name": "SOLID-EX2 RPF 60+GRS 抗藍光玻璃貼",
+            "nameShort": "IMOSRPF"
+        },
+        {
+            "name": "玻璃保護貼",
+            "nameShort": "IMOSGLA"
+        },
+        {
+            "name": "金屬鏡頭框",
+            "nameShort": "IMOSMLEN"
+        },
+        {
+            "name": "LANYARD 都會隨行手機掛繩 單扣 附掛繩收納袋",
+            "nameShort": "IMOSLANY"
+        },
+        {
+            "name": "防鯊網編織充電線 (3年保固)",
+            "nameShort": "IMOSSKCABLE"
+        },
+        {
+            "name": "雙孔-TPEY C*2 PD 3.0/QC 3.0/PPS GAN 氮化鎵 充電器 (3年保固)",
+            "nameShort": "IMOS40W"
+        },
+        {
+            "name": "雙孔-USB/TYPE C PD3.0/QC3.0 GAN 氮化鎵 充電器 (3年保固)",
+            "nameShort": "IMOS35W"
+        },
+        {
+            "name": "杜邦KEVLAR雙層防彈編織充電線 (4年保固)",
+            "nameShort": "IMOSBUCABLE"
+        },
+        {
+            "name": "雙孔-USB/TYPE C PD3.0/QC3.0 GAN 氮化鎵 充電器 (4年保固)",
+            "nameShort": "IMOS45W"
+        },
+        {
+            "name": "國際轉換頭",
+            "nameShort": "IMOSCHRA"
+        },
+        {
+            "name": "TREND BOOST 軍規防摔殼",
+            "nameShort": "IMOSCASE"
+        },
+        {
+            "name": "TREND BOOST 二代(金屬LOGO) 軍規防摔殼",
+            "nameShort": "IMOSCASEII"
+        },
+        {
+            "name": "TREND BOOST輕薄(霧面背玻) 軍規防摔殼",
+            "nameShort": "IMOSCASEGLA"
+        },
+        {
+            "name": "3H 3SAS疏油疏水 保護貼",
+            "nameShort": "IMOS3H3SAS"
+        },
+        {
+            "name": "DevilCase 惡魔防摔殼-標準版",
+            "nameShort": "DC"
+        }
+    ],
+    "models": [
+        {
+            "model": "三星SAMSUNG Galaxy S20 PLUS",
+            "modelShort": "S20+"
+        },
+        {
+            "model": "三星SAMSUNG Galaxy S20 ULTRA",
+            "modelShort": "S20U"
+        },
+        {
+            "model": "三星SAMSUNG Galaxy S21 ULTRA",
+            "modelShort": "S21U"
+        },
+        {
+            "model": "三星SAMSUNG Galaxy S22 ULTRA",
+            "modelShort": "S22U"
+        },
+        {
+            "model": "三星SAMSUNG Galaxy S22/S22 PLUS",
+            "modelShort": "S22/S22U"
+        },
+        {
+            "model": "三星SAMSUNG Galaxy S23 ULTRA",
+            "modelShort": "S23U"
+        },
+        {
+            "model": "三星SAMSUNG Galaxy S23/S23 PLUS",
+            "modelShort": "S23/S23U"
+        },
+        {
+            "model": "三星SAMSUNG Galaxy S24",
+            "modelShort": "S24"
+        },
+        {
+            "model": "三星SAMSUNG Galaxy S24 PLUS(S24+)",
+            "modelShort": "S24P"
+        },
+        {
+            "model": "三星SAMSUNG Galaxy S25",
+            "modelShort": "S25"
+        },
+        {
+            "model": "三星SAMSUNG Galaxy S25 PLUS(S25+)",
+            "modelShort": "S25+"
+        },
+        {
+            "model": "三星SAMSUNG Galaxy S25 ULTRA",
+            "modelShort": "S25U"
+        },
+        {
+            "model": "三星SAMSUNG Galaxy Tab S8 ULTRA",
+            "modelShort": "TABS8U"
+        },
+        {
+            "model": "三星SAMSUNG Galaxy Z Filp 4",
+            "modelShort": "ZFP4"
+        },
+        {
+            "model": "三星SAMSUNG Galaxy Z Filp 5",
+            "modelShort": "ZFP5"
+        },
+        {
+            "model": "三星SAMSUNG Galaxy Z Fold 4",
+            "modelShort": "ZFD4"
+        },
+        {
+            "model": "三星SAMSUNG Galaxy Z Fold 5",
+            "modelShort": "ZFD5"
+        },
+        {
+            "model": "三星SAMSUNG Galaxy Z Fold 6",
+            "modelShort": "ZFD6"
+        },
+        {
+            "model": "三星SAMSUNG S24 ULTRA",
+            "modelShort": "S24U"
+        },
+        {
+            "model": "Google Pixel 9 PRO XL",
+            "modelShort": "GOO-P9PXL"
+        },
+        {
+            "model": "GOOGLE Pixel 9/9PRO",
+            "modelShort": "GOO-P9/P9P"
+        },
+        {
+            "model": "IP11 PRO MAX/XS MAX (6.5吋)",
+            "modelShort": "I11PM/XSM"
+        },
+        {
+            "model": "IP11 PRO/11 PRO MAX",
+            "modelShort": "I11P/11PM"
+        },
+        {
+            "model": "IP11 PRO/X/XS (5.8吋)",
+            "modelShort": "I11P/X/XS"
+        },
+        {
+            "model": "IP11/12/12 MINI",
+            "modelShort": "I11/12/12M"
+        },
+        {
+            "model": "IP11/XR (6.1吋)",
+            "modelShort": "I11/XR"
+        },
+        {
+            "model": "IP12 MINI (5.4吋)",
+            "modelShort": "I12M"
+        },
+        {
+            "model": "IP12 PRO",
+            "modelShort": "I12P"
+        },
+        {
+            "model": "IP12 PRO MAX",
+            "modelShort": "I12PM"
+        },
+        {
+            "model": "IP12 PRO MAX (6.7吋",
+            "modelShort": "I12PM"
+        },
+        {
+            "model": "IP12/12 PRO (6.1吋)",
+            "modelShort": "I12/12P"
+        },
+        {
+            "model": "IP13 MINI (5.4吋)",
+            "modelShort": "I13M"
+        },
+        {
+            "model": "IP13 PRO/13 PRO MAX",
+            "modelShort": "I13P/13PM"
+        },
+        {
+            "model": "IP13/13 MINI",
+            "modelShort": "I13/13M"
+        },
+        {
+            "model": "IP14 (6.1吋)",
+            "modelShort": "I14"
+        },
+        {
+            "model": "IP14 PLUS (6.7吋)",
+            "modelShort": "I14+"
+        },
+        {
+            "model": "IP14 PLUS/13 PRO MAX (6.7吋)",
+            "modelShort": "I14+/13PM"
+        },
+        {
+            "model": "IP14 PRO (6.1吋)",
+            "modelShort": "I14P"
+        },
+        {
+            "model": "IP14 PRO MAX (6.7吋)",
+            "modelShort": "I14PM"
+        },
+        {
+            "model": "IP14 PRO/14 PRO MAX",
+            "modelShort": "I14P/14PM"
+        },
+        {
+            "model": "IP14/14 PLUS",
+            "modelShort": "I14/14+"
+        },
+        {
+            "model": "IP15 (6.1吋)",
+            "modelShort": "I15"
+        },
+        {
+            "model": "IP15 PLUS (6.7吋)",
+            "modelShort": "I15+"
+        },
+        {
+            "model": "IP15 PRO",
+            "modelShort": "I15P"
+        },
+        {
+            "model": "IP15 PRO (6.1吋)",
+            "modelShort": "I15P"
+        },
+        {
+            "model": "IP15 PRO MAX",
+            "modelShort": "I15PM"
+        },
+        {
+            "model": "IP15 PRO MAX (6.7吋)",
+            "modelShort": "I15PM"
+        },
+        {
+            "model": "IP15/15 PLUS",
+            "modelShort": "I15/15+"
+        },
+        {
+            "model": "IP16 (6.1吋)",
+            "modelShort": "I16"
+        },
+        {
+            "model": "IP16 PLUS (6.7吋)",
+            "modelShort": "I16+"
+        },
+        {
+            "model": "IP16 PLUS/15 PLUS/14 PRO MAX (6.7吋)",
+            "modelShort": "I16+/15+14PM"
+        },
+        {
+            "model": "IP16 PRO (6.3吋)",
+            "modelShort": "I16P"
+        },
+        {
+            "model": "IP16 PRO MAX (6.9吋)",
+            "modelShort": "I16PM"
+        },
+        {
+            "model": "IP16 PRO/16 PRO MAX",
+            "modelShort": "I16P/16PM"
+        },
+        {
+            "model": "IP16/15/14 PRO (6.1吋)",
+            "modelShort": "I16/15/14P"
+        },
+        {
+            "model": "IP16/16 PLUS",
+            "modelShort": "I16/16+"
+        },
+        {
+            "model": "IP16E",
+            "modelShort": "I16E"
+        },
+        {
+            "model": "IP16E/14/13/13 PRO (6.1吋)",
+            "modelShort": "I16E/14/13/13P"
+        },
+        {
+            "model": "IP7/8/SE/SE2/SE3",
+            "modelShort": "7/8/SE"
+        },
+        {
+            "model": "IPAD 10 (10.9吋)",
+            "modelShort": "PD10.9"
+        },
+        {
+            "model": "IPAD 7/8/9 (10.2吋)",
+            "modelShort": "PD10.2"
+        },
+        {
+            "model": "IPAD AIR 11吋 (2024)",
+            "modelShort": "PAIR11"
+        },
+        {
+            "model": "IPAD AIR 13吋 (2024)",
+            "modelShort": "PAIR13"
+        },
+        {
+            "model": "IPAD AIR/AIR 2/PRO/2017/2018)(9.7吋)",
+            "modelShort": "PA9.7"
+        },
+        {
+            "model": "IPAD AIR4/5(10.9吋)/PRO 11吋",
+            "modelShort": "PD11/10.9"
+        },
+        {
+            "model": "IPAD MINI 6/7 (8.3吋)",
+            "modelShort": "PM8.3"
+        },
+        {
+            "model": "IPAD PRO /AIR 3 (10.5吋)",
+            "modelShort": "PP10.5"
+        },
+        {
+            "model": "IPAD PRO 11吋 (2024)",
+            "modelShort": "PP11"
+        },
+        {
+            "model": "IPAD PRO 11吋/12.9吋",
+            "modelShort": "PD11/12.9"
+        },
+        {
+            "model": "IPAD PRO 11吋/13吋(2024)",
+            "modelShort": "PP11/13"
+        },
+        {
+            "model": "IPAD PRO 12.9吋",
+            "modelShort": "PD12.9"
+        },
+        {
+            "model": "IPAD PRO 13吋 (2024)",
+            "modelShort": "PP13"
+        },
+        {
+            "model": "SONY Xperia 1 II(2代)",
+            "modelShort": "SN-X12"
+        },
+        {
+            "model": "SONY  Xperia 1 IV (4代)/1 V (5代)",
+            "modelShort": "SN-X15/X14"
+        },
+        {
+            "model": "SONY Xperia 1 V (5代)",
+            "modelShort": "SN-X1V"
+        },
+        {
+            "model": "SONY Xperia 1 VI (6代)",
+            "modelShort": "SN-X1VI"
+        },
+        {
+            "model": "SONY Xperia PRO-I",
+            "modelShort": "SN-XP-I"
+        },
+        {
+            "model": "X/XS/XS MAX",
+            "modelShort": "XS"
+        },
+        {
+            "model": "IPXR (6.1吋)",
+            "modelShort": "XR"
+        },
+        {
+            "model": "IPAD MINI 4/5 (7.9吋)",
+            "modelShort": "PM4/57.9"
+        },
+        {
+            "model": "IP7 PLUS/8 PLUS (5.5吋)",
+            "modelShort": "I7+/8+5.5"
+        },
+        {
+            "model": "任天堂Nintendo  SWITCH",
+            "modelShort": "SWITCH"
+        },
+        {
+            "model": "三星SAMSUNG Galaxy Z Filp 6",
+            "modelShort": "ZFP6"
+        },
+        {
+            "model": "OPPO RENO 12",
+            "modelShort": "RENO12"
+        },
+        {
+            "model": "OPPO RENO 12 PRO",
+            "modelShort": "RENO12P"
+        },
+        {
+            "model": "APPLE WATCH ULTRA 1/2",
+            "modelShort": "WCHU1/2"
+        },
+        {
+            "model": "手腕繩/45CM",
+            "modelShort": "RL-45"
+        },
+        {
+            "model": "肩背繩/150CM",
+            "modelShort": "RL-150"
+        },
+        {
+            "model": "加長繩/180CM",
+            "modelShort": "RL-180"
+        },
+        {
+            "model": "USB TO LIGHTNING",
+            "modelShort": "UL"
+        },
+        {
+            "model": "40W-ICB033",
+            "modelShort": "ICB033"
+        },
+        {
+            "model": "35W-ICB035",
+            "modelShort": "ICB035"
+        },
+        {
+            "model": "TYPE-C TO TYPE-C",
+            "modelShort": "CC"
+        },
+        {
+            "model": "USB TO LIGHTNING",
+            "modelShort": "UL"
+        },
+        {
+            "model": "45W-UDE045",
+            "modelShort": "UDE045"
+        },
+        {
+            "model": "IP13 (6.1吋)",
+            "modelShort": "I13"
+        },
+        {
+            "model": "IP13 PRO (6.1吋)",
+            "modelShort": "I13P"
+        },
+        {
+            "model": "IP13 PRO MAX (6.7吋)",
+            "modelShort": "I13PM"
+        },
+        {
+            "model": "IP12 PRO MAX (6.7吋)",
+            "modelShort": "I12PM"
+        },
+        {
+            "model": "IP11 (6.1吋)",
+            "modelShort": "I11"
+        },
+        {
+            "model": "IP11 PRO (5.8吋)",
+            "modelShort": "I11P"
+        },
+        {
+            "model": "IP11 PRO MAX (6.5吋)",
+            "modelShort": "I11PM"
+        },
+        {
+            "model": "IPX/XS (5.8吋)",
+            "modelShort": "IX/XS"
+        },
+        {
+            "model": "IPXS MAX (6.5吋)",
+            "modelShort": "IXSM"
+        },
+        {
+            "model": "SONY Xperia 1",
+            "modelShort": "SN-X1"
+        },
+        {
+            "model": "SONY Xperia 1 III(3代)",
+            "modelShort": "SN-X13"
+        },
+        {
+            "model": "SONY Xperia 1 IV (4代)",
+            "modelShort": "SN-X14"
+        },
+        {
+            "model": "三星SAMSUNG A55",
+            "modelShort": "SM-A55"
+        },
+        {
+            "model": "GOOGLE PIXEL 5",
+            "modelShort": "GOO-P5"
+        },
+        {
+            "model": "GOOGLE PIXEL 6 PRO",
+            "modelShort": "GOO-P6P"
+        },
+        {
+            "model": "GOOGLE PIXEL 6A",
+            "modelShort": "GOO-P6A"
+        },
+        {
+            "model": "GOOGLE PIXEL 6",
+            "modelShort": "GOO-P6"
+        },
+        {
+            "model": "IP14/13 (6.1吋)",
+            "modelShort": "I14/13"
+        },
+        {
+            "model": "三星SAMSUNG Galaxy S22",
+            "modelShort": "SM-S22"
+        },
+        {
+            "model": "三星SAMSUNG Galaxy S22 PLUS",
+            "modelShort": "SM-S22+"
+        },
+        {
+            "model": "三星SAMSUNG Galaxy S23",
+            "modelShort": "SM-S23"
+        },
+        {
+            "model": "三星SAMSUNG Galaxy S23 PLUS",
+            "modelShort": "SM-S23+"
+        },
+        {
+            "model": "IPAD 2/3/4 (9.7吋)",
+            "modelShort": "PD9.7"
+        },
+        {
+            "model": "SONY Xperia 1 III(3代)/IV (4代)",
+            "modelShort": "SN-X13/X14"
+        },
+        {
+            "model": "IPAD PRO 12.9吋 (TOUCH ID 2017)",
+            "modelShort": "PP12917"
+        },
+        {
+            "model": "MACBOOK AIR 13吋(2012)",
+            "modelShort": "MA-13-12"
+        },
+        {
+            "model": "MACBOOK AIR 13.6吋(2022-M2/M3)",
+            "modelShort": "MA-13.6-22"
+        },
+        {
+            "model": "MACBOOK AIR 15.3吋(2023-M2)",
+            "modelShort": "MA-15.3-23"
+        },
+        {
+            "model": "MACBOOK AIR 11吋",
+            "modelShort": "MA-11"
+        },
+        {
+            "model": "MACBOOK PRO 13吋(2016/2018)/MACBOOK AIR 13(2018/2020)",
+            "modelShort": "MP-13/MA-13"
+        },
+        {
+            "model": "MACBOOK PRO 13吋(2015)",
+            "modelShort": "MP-13-15"
+        },
+        {
+            "model": "MACBOOK PRO 13吋(2020)MACBOOK AIR(2020-M1)",
+            "modelShort": "MP-13-20-MA-20"
+        },
+        {
+            "model": "MACBOOK PRO 15吋(2012)",
+            "modelShort": "MP-15-12"
+        },
+        {
+            "model": "MACBOOK PRO 15吋(2015)",
+            "modelShort": "MP15-15"
+        },
+        {
+            "model": "MACBOOK PRO 15吋(2016~2020)",
+            "modelShort": "MP-15-16"
+        },
+        {
+            "model": "MACBOOK PRO 16吋(2019)",
+            "modelShort": "MP-16-19"
+        },
+        {
+            "model": "MACBOOK PRO 14吋(2021~2024)",
+            "modelShort": "MP-14-21"
+        },
+        {
+            "model": "MACBOOK PRO 16.2吋(2021~2024-M1/M2M3/M4)",
+            "modelShort": "MP-16.2"
+        },
+        {
+            "model": "MACBOOK 12吋",
+            "modelShort": "MC-12"
+        },
+        {
+            "model": "MACBOOK PRO 13吋(2012)",
+            "modelShort": "MP-13-12"
+        }
+    ],
+    "colors": [
+        {
+            "color": "黑色",
+            "colorShort": "BK"
+        },
+        {
+            "color": "銀色",
+            "colorShort": "SL"
+        },
+        {
+            "color": "平面式-燒鈦色",
+            "colorShort": "F-BT"
+        },
+        {
+            "color": "帽蓋式-黑底銀邊",
+            "colorShort": "C-BS"
+        },
+        {
+            "color": "粉色",
+            "colorShort": "PK"
+        },
+        {
+            "color": "綠色",
+            "colorShort": "GR"
+        },
+        {
+            "color": "燒鈦色",
+            "colorShort": "BT"
+        },
+        {
+            "color": "平面色-黑色",
+            "colorShort": "F-BK"
+        },
+        {
+            "color": "帽蓋式-燒鈦色",
+            "colorShort": "C-BT"
+        },
+        {
+            "color": "平面式-黑底銀邊",
+            "colorShort": "F-BS"
+        },
+        {
+            "color": "黑底銀邊",
+            "colorShort": "BKSL"
+        },
+        {
+            "color": "太空灰",
+            "colorShort": "SG"
+        },
+        {
+            "color": "夜幕綠",
+            "colorShort": "MG"
+        },
+        {
+            "color": "金色",
+            "colorShort": "GD"
+        },
+        {
+            "color": "玫瑰金",
+            "colorShort": "RG"
+        },
+        {
+            "color": "紅色",
+            "colorShort": "RD"
+        },
+        {
+            "color": "紫色",
+            "colorShort": "PP"
+        },
+        {
+            "color": "黃色",
+            "colorShort": "YL"
+        },
+        {
+            "color": "灰色",
+            "colorShort": "GY"
+        },
+        {
+            "color": "藍色",
+            "colorShort": "BL"
+        },
+        {
+            "color": "天峰藍",
+            "colorShort": "TB"
+        },
+        {
+            "color": "石墨色",
+            "colorShort": "GP"
+        },
+        {
+            "color": "松嶺青",
+            "colorShort": "FG"
+        },
+        {
+            "color": "原色鈦",
+            "colorShort": "NT"
+        },
+        {
+            "color": "18K金",
+            "colorShort": "18G"
+        },
+        {
+            "color": "淡金/銀",
+            "colorShort": "CS"
+        },
+        {
+            "color": "黑色(鋁合金)",
+            "colorShort": "BK(AL)"
+        },
+        {
+            "color": "銀色(鋁合金)",
+            "colorShort": "SL(AL)"
+        },
+        {
+            "color": "平面式-燒鈦色(不鏽鋼)",
+            "colorShort": "F-BT(SS)"
+        },
+        {
+            "color": "帽蓋式-黑底銀邊(鋁合金)",
+            "colorShort": "C-BS(AL)"
+        },
+        {
+            "color": "粉色(鋁合金)",
+            "colorShort": "PK(AL)"
+        },
+        {
+            "color": "綠色(鋁合金)",
+            "colorShort": "GR(AL)"
+        },
+        {
+            "color": "燒鈦色(不鏽鋼)",
+            "colorShort": "BT(SS)"
+        },
+        {
+            "color": "平面色-黑色(鋁合金)",
+            "colorShort": "F-BK(AL)"
+        },
+        {
+            "color": "帽蓋式-燒鈦色(不鏽鋼)",
+            "colorShort": "C-BT(SS)"
+        },
+        {
+            "color": "平面式-黑底銀邊(鋁合金)",
+            "colorShort": "F-BS(AL)"
+        },
+        {
+            "color": "黑底銀邊(鋁合金)",
+            "colorShort": "BKSL(SS)"
+        },
+        {
+            "color": "銀色(鈦合金TI64)",
+            "colorShort": "SL(TI64)"
+        },
+        {
+            "color": "燒鈦色(鈦合金TI64)",
+            "colorShort": "BT(TI64)"
+        },
+        {
+            "color": "太空灰(鋁合金)",
+            "colorShort": "SG(AL)"
+        },
+        {
+            "color": "夜幕綠(鋁合金)",
+            "colorShort": "MG(AL)"
+        },
+        {
+            "color": "金色(鋁合金)",
+            "colorShort": "GD(AL)"
+        },
+        {
+            "color": "玫瑰金(鋁合金)",
+            "colorShort": "RG(AL)"
+        },
+        {
+            "color": "紅色(鋁合金)",
+            "colorShort": "RD(AL)"
+        },
+        {
+            "color": "紫色(鋁合金)",
+            "colorShort": "PP(AL)"
+        },
+        {
+            "color": "黃色(鋁合金)",
+            "colorShort": "YL(AL)"
+        },
+        {
+            "color": "灰色(不鏽鋼)",
+            "colorShort": "GY(SS)"
+        },
+        {
+            "color": "金色(不鏽鋼)",
+            "colorShort": "GD(SS)"
+        },
+        {
+            "color": "藍色(不鏽鋼)",
+            "colorShort": "BL(SS)"
+        },
+        {
+            "color": "銀色(不鏽鋼)",
+            "colorShort": "SL(SS)"
+        },
+        {
+            "color": "天峰藍(不鏽鋼)",
+            "colorShort": "TB(SS)"
+        },
+        {
+            "color": "石墨色(不鏽鋼)",
+            "colorShort": "GP(SS)"
+        },
+        {
+            "color": "松嶺青(不鏽鋼)",
+            "colorShort": "FG(SS)"
+        },
+        {
+            "color": "藍色(鋁合金)",
+            "colorShort": "NT(AL)"
+        },
+        {
+            "color": "18K金(不鏽鋼)",
+            "colorShort": "18G(SS)"
+        },
+        {
+            "color": "紫色(不鏽鋼)",
+            "colorShort": "PP(SS)"
+        },
+        {
+            "color": "黑色(不鏽鋼)",
+            "colorShort": "BK(SS)"
+        },
+        {
+            "color": "淡金/銀(鋁合金)",
+            "colorShort": "CS(AL)"
+        },
+        {
+            "color": "原色鈦(鈦合金TI64)",
+            "colorShort": "NT64(TI64)"
+        },
+        {
+            "color": "一般版-透明",
+            "colorShort": "SV-CLR"
+        },
+        {
+            "color": "一般版-藍苺色",
+            "colorShort": "SV-BLB"
+        },
+        {
+            "color": "一般版-丁香紫",
+            "colorShort": "SV-LIL"
+        },
+        {
+            "color": "一般版-亞麻綠色",
+            "colorShort": "SV-LGN"
+        },
+        {
+            "color": "一般版-黑色",
+            "colorShort": "SV-BK"
+        },
+        {
+            "color": "磁吸版(MAG)-透明",
+            "colorShort": "MAG-CLR"
+        },
+        {
+            "color": "磁吸版(MAG)-藍苺色",
+            "colorShort": "MAG-BLB"
+        },
+        {
+            "color": "磁吸版(MAG)-丁香紫",
+            "colorShort": "MAG-LIL"
+        },
+        {
+            "color": "磁吸版(MAG)-亞麻綠色",
+            "colorShort": "MAG-LGN"
+        },
+        {
+            "color": "磁吸版(MAG)-黑色",
+            "colorShort": "MAG-BK"
+        },
+        {
+            "color": "磁吸旋轉支架版(MAG)-透明",
+            "colorShort": "MagS-CLR"
+        },
+        {
+            "color": "磁吸旋轉支架版(MAG)-藍苺色",
+            "colorShort": "MagS-BLB"
+        },
+        {
+            "color": "磁吸旋轉支架版(MAG)-丁香紫",
+            "colorShort": "MagS-LIL"
+        },
+        {
+            "color": "磁吸旋轉支架版(MAG)-亞麻綠色",
+            "colorShort": "MagS-LGN"
+        },
+        {
+            "color": "磁吸旋轉支架版(MAG)-黑色",
+            "colorShort": "MagS-BK"
+        },
+        {
+            "color": "3D款-亮面",
+            "colorShort": "3D-HC"
+        },
+        {
+            "color": "3D款-全透明",
+            "colorShort": "3D-CLR"
+        },
+        {
+            "color": "3D款-霧面",
+            "colorShort": "3D-AG"
+        },
+        {
+            "color": "3D款-全透明-霧面",
+            "colorShort": "3D-CLRAG"
+        },
+        {
+            "color": "2.5D款-亮面",
+            "colorShort": "2D-HC"
+        },
+        {
+            "color": "2.5D款-霧面",
+            "colorShort": "2D-AG"
+        },
+        {
+            "color": "2.5D款-防窺",
+            "colorShort": "2D-PR"
+        },
+        {
+            "color": "3D款-防窺",
+            "colorShort": "3D-PR"
+        },
+        {
+            "color": "3D款-康寧",
+            "colorShort": "3D-CN"
+        },
+        {
+            "color": "2.5D款-康寧",
+            "colorShort": "2D-CN"
+        },
+        {
+            "color": "9M藍寶石-亮面",
+            "colorShort": "9M-HC"
+        },
+        {
+            "color": "9M藍寶石-低藍光",
+            "colorShort": "9M-RPF"
+        },
+        {
+            "color": "9M藍寶石-全透明",
+            "colorShort": "9M-CLR"
+        },
+        {
+            "color": "銀色(鈦合金)",
+            "colorShort": "SL(TI)"
+        },
+        {
+            "color": "燒鈦(不鏽鋼)",
+            "colorShort": "BT(SS)"
+        },
+        {
+            "color": "橘色-霧面(鋁合金)",
+            "colorShort": "OG-AG(AL)"
+        },
+        {
+            "color": "熱彎3D-康寧",
+            "colorShort": "3D-CN"
+        },
+        {
+            "color": "3D-神極康寧-白邊銀環",
+            "colorShort": "3D-CN-WHSL"
+        },
+        {
+            "color": "康寧-全透明",
+            "colorShort": "CN-CLR"
+        },
+        {
+            "color": "2.5D-神極康寧-黑邊黑環",
+            "colorShort": "2D-CN-BKBK"
+        },
+        {
+            "color": "米白色(鋁合金)",
+            "colorShort": "OW(AL)"
+        },
+        {
+            "color": "黑色-霧面(鈦合金)",
+            "colorShort": "BK-AG(TI)"
+        },
+        {
+            "color": "亮面(不鏽鋼)",
+            "colorShort": "HC(SS)"
+        },
+        {
+            "color": "霧面(不鏽鋼)",
+            "colorShort": "AG(SS)"
+        },
+        {
+            "color": "霧面(鋁合金)",
+            "colorShort": "AG(AL)"
+        },
+        {
+            "color": "霧面(鈦合金)",
+            "colorShort": "AG(TI)"
+        },
+        {
+            "color": "黑色-霧面(鋁合金)",
+            "colorShort": "BK-AG(TI)"
+        },
+        {
+            "color": "黑色(黑扣)",
+            "colorShort": "BK(BK-CL)"
+        },
+        {
+            "color": "亞麻綠(金釦)",
+            "colorShort": "LGN(GD-CL)"
+        },
+        {
+            "color": "亞麻綠(銀釦)",
+            "colorShort": "LGN(SL-CL)"
+        },
+        {
+            "color": "藍莓色(金釦)",
+            "colorShort": "BLB(GD-CL)"
+        },
+        {
+            "color": "藍莓色(銀釦)",
+            "colorShort": "BLB(SL-CL)"
+        },
+        {
+            "color": "丁香紫(金釦)",
+            "colorShort": "LIL(GD-CL)"
+        },
+        {
+            "color": "丁香紫(銀釦)",
+            "colorShort": "LIL(SL-CL)"
+        },
+        {
+            "color": "奶茶色(金釦)",
+            "colorShort": "MT(GD-CL)"
+        },
+        {
+            "color": "奶茶色(銀釦)",
+            "colorShort": "MT(SL-CL)"
+        },
+        {
+            "color": "一般版-粉色",
+            "colorShort": "SV-PK"
+        },
+        {
+            "color": "一般版-藍色",
+            "colorShort": "SV-BL"
+        },
+        {
+            "color": "一般版-綠色",
+            "colorShort": "SV-GR"
+        },
+        {
+            "color": "霧面玻璃版-透明",
+            "colorShort": "AGGLA-CLR"
+        },
+        {
+            "color": "橘色(鋁合金)",
+            "colorShort": "OG(AL)"
+        },
+        {
+            "color": "亮面-正面(送霧面背貼)",
+            "colorShort": "HC-FT(FREE)"
+        },
+        {
+            "color": "亮面-正面",
+            "colorShort": "HC-FT"
+        },
+        {
+            "color": "亮面-背面",
+            "colorShort": "HC-BC"
+        },
+        {
+            "color": "1.2M",
+            "colorShort": "1.2M"
+        },
+        {
+            "color": "1.5M",
+            "colorShort": "1.5M"
+        },
+        {
+            "color": "白色",
+            "colorShort": "WH"
+        },
+        {
+            "color": "3H-亮面",
+            "colorShort": "3H-HC"
+        },
+        {
+            "color": "相機按鍵版-磁吸版(MAG)-透明",
+            "colorShort": "BT-MAG-CLR"
+        },
+        {
+            "color": "銀色/鈦色(不鏽鋼)",
+            "colorShort": "SL-GY(SS)"
+        }
+    ]
+}
